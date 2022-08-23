@@ -1,0 +1,9 @@
+**Recommended PHP version 5.6**
+
+
+**Admin Login Details**
+
+Email	: hasib@mail.com
+Password: 12345
+
+
